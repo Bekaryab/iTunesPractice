@@ -43,8 +43,7 @@ The project follows the **MVVM (Model-View-ViewModel)** design pattern combined 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89c312cd-35d2-49c2-859d-65a23b9d9168" width="250" alt="Album List Screen">
   <img src="https://github.com/user-attachments/assets/4178e768-a5d1-485a-a274-db6c2e2e7a6b" width="250" alt="Tracklist Screen">
- <img src="https://github.com/user-attachments/assets/8adc1b7f-cd56-42f6-a527-2e7a721c1852
-" width="250" alt="Play Screen">
+ <img src="https://github.com/user-attachments/assets/8adc1b7f-cd56-42f6-a527-2e7a721c1852" width="250" alt="Play Screen">
 </p>
 
 <p align="center">
